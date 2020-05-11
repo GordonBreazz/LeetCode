@@ -1,2 +1,2 @@
-# LeetCode Coding Challenges and Solutions in Swift
+# LeetCode Coding Challenges and Solutions in JS
 ## Solved Challenges
